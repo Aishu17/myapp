@@ -128,6 +128,8 @@ public class MainActivity extends AppCompatActivity {
         client.disconnect();
     }
 
+//editing the file
+
     @Override
     protected void onPause() {
         super.onPause();
